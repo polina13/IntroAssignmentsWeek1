@@ -1,0 +1,44 @@
+body {
+  background-color: #888888;
+}
+
+.container {
+  max-width: 1800px;
+  background-color: white;
+}
+
+.topjumbo{
+  padding-top: 70px;
+}
+.site-title {
+  font-size: 55px;
+  font-style: italic;
+  color:black;
+}
+.carousel-caption {
+  font-size: 100px;
+  color: white;
+}
+.item img {
+  height: 200px;
+  width: 100%;
+
+}
+.column-red{
+background-color: red;
+}
+
+.column-blue{
+background-color: blue;
+}
+
+.column-white{
+background-color: white;
+}
+
+
+
+.column-color2{
+  background: #c0c0c0;
+
+}
