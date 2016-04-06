@@ -1,0 +1,39 @@
+.date {
+  float: right;
+  background-color: red;
+  height: 800px;
+  width: 25%;
+  text-align: center;
+  border: 5px solid black;
+  padding: 2% 20px;
+}
+
+.main-img {
+  width: 100%;
+}
+
+.container {
+  width: 65%;
+  float: left;
+  margin-left: 20px;
+}
+
+.column {
+  float: left;
+  width: 45%;
+  list-style-type: none;
+}
+
+.column2 {
+  float: right;
+  width: 45%;
+  list-style-type: none;
+}
+
+.info {
+  clear: both;
+}
+
+.img img {
+ padding: 5% 25px;
+}
