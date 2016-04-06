@@ -1,0 +1,11 @@
+.intro {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 1.2rem;
+  font-family: Verdana;
+  text-align: center;
+  color: blue;
+}
